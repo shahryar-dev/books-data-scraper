@@ -1,4 +1,4 @@
-# Product Data Web Scraper
+# Book Data Web Scraper
 
 A robust web scraping pipeline built with Python and Scrapy to extract structured product data.
 
